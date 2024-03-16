@@ -31,4 +31,4 @@ async def check(ctx):
     else:
         await ctx.send("вы выбрали загрузить картинку")
 
-bot.run("MTIxNTMyNTM2NzgyMTEzOTk4OA.GwyRxs.aK76UDvr1eLARHljn_8AQrZ4O2SEx1aIdEv9sA")
+bot.run("")
